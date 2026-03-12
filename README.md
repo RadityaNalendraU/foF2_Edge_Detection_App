@@ -53,3 +53,15 @@
     ```bash
     Aplikasi dan Model Harus Di Tempatkan Dalam 1 Folder yang Sama
 4. **jalankan aplikasi tersebut**
+
+## 👨‍💻 Tim Pengembang (IF-4 UNIKOM 2026)
+
+| Anggota | NIM |
+| :--- | :--- | 
+| **Raditya Nalendra Utomo**  | 10122119 | 
+| **Mochammad Rafly**  | 10122126 |
+| **Gabriel Cornelius Lumbantoruan**    | 10122142 |
+ 
+
+### Dosen Pembimbing: Hanhan Maulana, M.Kom., Ph.D. 
+### Pembimbing Kerja Praktek (BRIN): Adi Purwono, M.T.
